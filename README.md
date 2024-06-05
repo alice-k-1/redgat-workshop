@@ -1,1 +1,1 @@
-# redgat-workshop
+# redhat-workshop
