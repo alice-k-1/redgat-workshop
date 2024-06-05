@@ -4,7 +4,7 @@ description: A Helm chart for Kubernetes
 type: application
 dependencies:
   - name: redgat-workshop
-    repository: oci://ghcr.io/alice-k-1/helm/
+    repository: oci://ghcr.io/alice-k-1/helm
     version: "1.0.0"
     alias: deploy1
 version: 1.0.0
