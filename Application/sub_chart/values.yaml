@@ -1,7 +1,7 @@
 github:
   user: alice-k-1
   token: empty-pass
-  url: https://github.com/alice-k-1/redgat-workshop/issues
+  url: https://api.github.com/repos/alice-k-1/redgat-workshop/issues
 
 deploy1: 
   ReplicaNumber: 1
