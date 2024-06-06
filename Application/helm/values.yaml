@@ -5,8 +5,9 @@ containers:
   image: 'quay.io/alicek/my-image'
   tag: 'chart_v2'
 
-service:
-  servicePort: 8080
+deploy:
+  service:
+    servicePort: 8080
 
 probes:
   readiness:
