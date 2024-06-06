@@ -37,4 +37,4 @@ deploy:
   service:
     servicePort: 8080
 
-test: Null
+test: fail
