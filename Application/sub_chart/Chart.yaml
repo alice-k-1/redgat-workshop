@@ -5,11 +5,11 @@ type: application
 dependencies:
   - name: redgat-workshop
     repository: oci://ghcr.io/alice-k-1/helm
-    version: "1.0.1"
+    version: "1.0.2"
     alias: deploy1
   - name: redgat-workshop
     repository: oci://ghcr.io/alice-k-1/helm
-    version: "1.0.1"
+    version: "1.0.2"
     alias: deploy2
 version: 1.0.1
 appVersion: "1.0.0"
